@@ -47,6 +47,7 @@ Adn everything will be setup.
 
 After running the server you can ping to simply verify if it's running ok.
 > https://yourserver.com/
+
 > repsonse:
 ```
 {
@@ -55,7 +56,8 @@ After running the server you can ping to simply verify if it's running ok.
 ```
 
 To split pdfs you can post, passing through the absolute input_path and the absolute output_path:
-> https://youserver.com
+> https://youserver.com/
+
 > request:
 ```
 {
