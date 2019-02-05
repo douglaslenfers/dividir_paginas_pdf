@@ -1,22 +1,4 @@
-## Starting from the Terminal
-
-In case you want to run your Django application from the terminal just run:
-
-1) Run Django
-
-    $ python manage.py runserver $IP:$PORT
-
 ## Splitting pdf pages
-
-
-## Support & Documentation
-
-Django docs can be found at https://www.djangoproject.com/
-
-
-# Project Title
-
-Split pdf
 
 ### Prerequisites
 
@@ -35,13 +17,21 @@ Run the command:
 git clone https://github.com/douglaslenfers/split_pdf_python.git
 ```
 
-Adn everything will be setup.
+And everything will be setup.
 
 ## Built With
 
 * [Python] 2.7.6 (https://www.python.org/download/releases/2.7.6/) - The programming language
 * [Django] 1.9.0 (https://docs.djangoproject.com/en/2.1/releases/1.9/) - The web framework
 * [PyPDF2] 1.2.6 (https://pythonhosted.org/PyPDF2/) - The pdf manager
+
+## Starting from the Terminal
+
+In case you want to run your Django application from the terminal just run:
+
+1) Run Django
+
+    $ python manage.py runserver $IP:$PORT
 
 ## Splitting the Pdfs.
 
