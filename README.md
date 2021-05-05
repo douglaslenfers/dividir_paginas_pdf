@@ -68,7 +68,6 @@ To split pdfs you can post, passing through the absolute input_path and the abso
 
 * **Douglas Lenfers** - [Douglas Lenfers](https://github.com/douglaslenfers)
 * **Matheus dos Santos** - [Matheussf](https://github.com/matheussf)
-* **Willian Rugenski** - [WillRugens](https://github.com/WillRugens)
 
 ## License
 
